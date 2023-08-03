@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Web", "App.Web\App.Web.csproj", "{72E5D855-35B9-4105-BFDA-CFE28CC52DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.APIs", "App.APIs\App.APIs.csproj", "{4D4A4E2B-D206-4846-9417-4AEC12833310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E5D855-35B9-4105-BFDA-CFE28CC52DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E5D855-35B9-4105-BFDA-CFE28CC52DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E5D855-35B9-4105-BFDA-CFE28CC52DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E5D855-35B9-4105-BFDA-CFE28CC52DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4A4E2B-D206-4846-9417-4AEC12833310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4A4E2B-D206-4846-9417-4AEC12833310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4A4E2B-D206-4846-9417-4AEC12833310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4A4E2B-D206-4846-9417-4AEC12833310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
